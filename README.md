@@ -1,2 +1,2 @@
 # SpreadOperator
- Operador Spread do JavaScript?
+ Operador Spread do JavaScript
